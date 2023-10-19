@@ -17,11 +17,6 @@ jobs:
         with:
           python-version: "3.10"
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r docs/pydoc/requirements.txt
-
       - name: Generate README
         run: python ./scripts/create_readme.py
 
