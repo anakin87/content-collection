@@ -7,8 +7,6 @@ on:
 
 jobs:
   sync:
-    env:
-      PROFILE_ACCESS_TOKEN: '${{ secrets.PROFILE_ACCESS_TOKEN }}'
     
     runs-on: ubuntu-latest
     
@@ -30,11 +28,13 @@ jobs:
       - name: Generate profile README
         run: python ./scripts/update_profile.py
 
-      - name: Commit and push
-        run: |
-          cd profile
-          git config user.name anakin87
-          git config user.email stefanofiorucci@gmail.com          
-          git add .
-          git commit -m "generated README"
-          git push "https://anakin87:$PROFILE_ACCESS_TOKEN@github.com/anakin87/anakin87.git"
+      - name: Pushes to profile repo
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.PROFILE_ACCESS_TOKEN }}
+        with:
+          source-directory: 'profile'
+          destination-github-username: 'anakin87'
+          destination-repository-name: 'anakin87'
+          user-name: github-actions
+          target-branch: main
