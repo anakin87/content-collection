@@ -1,9 +1,7 @@
-<img src="style.svg" width="400" height="400" alt="css-in-readme">
 
 # My content collection 🎮📚
 
 A simple (and incomplete) collection of content I have created and shared over time.
-Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 
 | Title  | ≈ Date | type |
 |---|---|---|
