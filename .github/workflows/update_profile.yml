@@ -32,9 +32,9 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
           cd profile
+          git config user.name ghactions
+          git config user.email ghactions@github.com          
           git add .
           git commit -m "generated README"
-          git push "https://anakin87:$PROFILE_ACCESS_TOKEN@github.com/anakin87/anakin87.git"
+          git push "https://ghactions:$PROFILE_ACCESS_TOKEN@github.com/anakin87/anakin87.git"
