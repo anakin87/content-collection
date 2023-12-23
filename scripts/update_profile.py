@@ -12,6 +12,6 @@ markdown_str+="<!--content end-->"
 with open('profile/README.md', 'r') as fin:
     profile_readme = fin.read()
 
-profile_readme = re.sub(r'<!--content start-->.*<!--content end-->', markdown_str, profile_readme)
+profile_readme = re.sub(r'<!--content start-->.*<!--content end-->', markdown_str, profile_readme, flags=re.DOTALL)
 
 print(profile_readme)
