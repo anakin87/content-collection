@@ -20,17 +20,13 @@ jobs:
           repository: anakin87/anakin87
           path: profile
 
-      - name: try
-        run: echo $(ls -R)       
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
 
-
-      # - name: Set up Python
-      #   uses: actions/setup-python@v4
-      #   with:
-      #     python-version: "3.10"
-
-      # - name: Generate README
-      #   run: python ./scripts/create_readme.py
+      - name: Generate profile README
+        run: python ./scripts/update_profile.py
 
       # - name: Commit and push
       #   run: |

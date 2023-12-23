@@ -12,8 +12,8 @@ A simple (and incomplete) collection of content I have created and shared over t
 with open('./data/data.csv', 'r') as f:
     reader = csv.reader(f, delimiter=',', quotechar='"')
     for row in reader:
-        title, url, date, type = row
-        markdown_str+= f'| [{title}]({url}) | {date} | {type} |\n'
+        title, url, date, type_ = row
+        markdown_str+= f'| [{title}]({url}) | {date} | {type_} |\n'
 
 with open('./README.md', 'w') as fo:
     fo.write(markdown_str)
