@@ -1,4 +1,3 @@
-
 # My content collection 🎮📚
 
 A simple (and incomplete) collection of content I have created and shared over time.

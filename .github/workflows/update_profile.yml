@@ -1,0 +1,41 @@
+name: Update profile
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+        with:
+          path: content
+
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+        with:
+          repository: anakin87/anakin87
+          path: profile
+
+      - name: try
+        run: echo $(ls -R)       
+
+
+      # - name: Set up Python
+      #   uses: actions/setup-python@v4
+      #   with:
+      #     python-version: "3.10"
+
+      # - name: Generate README
+      #   run: python ./scripts/create_readme.py
+
+      # - name: Commit and push
+      #   run: |
+      #     git config user.name github-actions
+      #     git config user.email github-actions@github.com
+      #     git add .
+      #     git commit -m "generated README"
+      #     git push
