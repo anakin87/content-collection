@@ -11,8 +11,6 @@ jobs:
     steps:
       - name: Checkout this repo
         uses: actions/checkout@v4
-        with:
-          path: content
 
       - name: Checkout profile repo
         uses: actions/checkout@v4

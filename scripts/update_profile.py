@@ -2,7 +2,7 @@ import csv
 import re
 
 markdown_str="<!--content start-->\n"       
-with open('content/data/data.csv', 'r') as f:
+with open('data/data.csv', 'r') as f:
     reader = csv.reader(f, delimiter=',', quotechar='"')
     for row in reader:
         title, url, date, type_ = row
