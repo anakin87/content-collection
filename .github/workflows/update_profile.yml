@@ -6,6 +6,8 @@ on:
       - main
 
 jobs:
+  env:
+    PROFILE_ACCESS_TOKEN: '${{ secrets.PROFILE_ACCESS_TOKEN }}'
   sync:
     runs-on: ubuntu-latest
     steps:
@@ -26,10 +28,11 @@ jobs:
       - name: Generate profile README
         run: python ./scripts/update_profile.py
 
-      # - name: Commit and push
-      #   run: |
-      #     git config user.name github-actions
-      #     git config user.email github-actions@github.com
-      #     git add .
-      #     git commit -m "generated README"
-      #     git push
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          cd profile
+          git add .
+          git commit -m "generated README"
+          git push "https://anakin87:$PROFILE_ACCESS_TOKEN@github.com/anakin87/anakin87.git"
