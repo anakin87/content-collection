@@ -2,6 +2,7 @@
 # My content collection 🎮📚
 
 A simple (and incomplete) collection of content I have created and shared over time.
+Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 
 | Title  | ≈ Date | type |
 |---|---|---|
