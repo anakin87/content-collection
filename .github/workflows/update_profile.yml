@@ -36,5 +36,4 @@ jobs:
           source-directory: 'profile'
           destination-github-username: 'anakin87'
           destination-repository-name: 'anakin87'
-          user-name: github-actions
           target-branch: main
