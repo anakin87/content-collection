@@ -9,12 +9,8 @@ jobs:
   sync:
     
     runs-on: ubuntu-latest
-    env:
-      API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+    
     steps:
-      - name: my
-        run: echo ${{ secrets.API_TOKEN_GITHUB }}
-
       - name: Checkout this repo
         uses: actions/checkout@v4
 
@@ -34,6 +30,8 @@ jobs:
 
       - name: Pushes to profile repo
         uses: cpina/github-action-push-to-another-repository@main
+        env:
+          SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
         with:
           source-directory: 'profile'
           destination-github-username: 'anakin87'
