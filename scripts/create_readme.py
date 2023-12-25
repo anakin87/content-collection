@@ -17,7 +17,7 @@ with open("./data/data.csv", "r") as f:
             title, url, date, type_ = row
         except ValueError as e:
             raise ValueError(f"Error in row {i}: {row}") from e
-        markdown_str += f"| {title} | {date} | [{type_}](url) |\n"
+        markdown_str += f"| {title} | {date} | [{type_}]({url}) |\n"
 
 with open("./README.md", "w") as fo:
     fo.write(markdown_str)
