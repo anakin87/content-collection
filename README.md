@@ -6,6 +6,7 @@ Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 
 | Title  | ≈ Date | type |
 |---|---|---|
+| 🇮🇹🇬🇧 Multilingual RAG from a 🎧 podcast | 2024-01-03 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-rag-activity-7148232270707937280-Pks_) |
 | 🧪🦍 Information Extraction with open LLMs and Function Calling | 2023-12-21 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-opensource-largelanguagemodels-activity-7143511665278447618-OKLW) |
 | LLM, Haystack and open-source: 🎙️ interview @ Pointer Podcast with Sara Zanzottera, in Italian 🇮🇹 | 2023-12-15 | [podcast](https://pointerpodcast.it/p/pointer183-haystack-creare-llm-applications-in-modo-facile-con-stefano-fiorucci-e-sara-zanzottera/) |
 | 📌 Collection of notebooks: using Mistral models with the Haystack LLM framework | 2023-12-14 | [post + repository](https://www.linkedin.com/posts/stefano-fiorucci_mistral-haystack-rag-activity-7141116953464676352-ixkL) |
