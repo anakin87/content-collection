@@ -24,6 +24,11 @@ jobs:
 
       - name: Commit and push
         run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          echo "Changes to commit"
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
