@@ -17,7 +17,7 @@ Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 | 🔍 Improve RAG by embedding metadata 🏷️ - pt. 2 | 2023-10-25 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-rag-llm-activity-7122840453288243200-_lke) |
 | 🔍 Improve RAG by embedding metadata 🏷️ - pt. 1 | 2023-10-23 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-rag-retrieval-activity-7122115430076362752-wC8S) |
 | Zephyr 7B Alpha: how I sharded a Large Language Model | 2023-10-16 | [post](https://www.linkedin.com/posts/stefano-fiorucci_llm-transformers-nlp-activity-7119577200902742016-zIFK) |
-| Importing unstructured data into your LLM application (unstructured.io + Haystack) | 2023-10-02 | [post](https://www.linkedin.com/posts/stefano-fiorucci_haystack-genai-rag-activity-7114631869022769152-veFw) |
+| Loading unstructured data into your LLM application (unstructured.io + Haystack) | 2023-10-02 | [post](https://www.linkedin.com/posts/stefano-fiorucci_haystack-genai-rag-activity-7114631869022769152-veFw) |
 | Mistral + Haystack: how I built a 🎸 Rock RAG pipeline | 2023-09-29 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_largelanguagemodels-haystack-rag-activity-7113416355495784448--uwy) |
 | ⚡ vLLM: how this fast LLM serving engine works (PagedAttention) | 2023-09-26 | [post](https://www.linkedin.com/posts/stefano-fiorucci_llm-haystack-activity-7112336741725790208-cfZU) |
 | Strategic Passage Ranking for RAG: how to overcome the Lost in the Middle problem | 2023-08-14 | [post](https://www.linkedin.com/posts/stefano-fiorucci_largelanguagemodels-llm-rag-activity-7096746266197467136-X9ES) |
