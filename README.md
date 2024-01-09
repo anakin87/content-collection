@@ -6,6 +6,7 @@ Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 
 | Title  | ≈ Date | type |
 |---|---|---|
+| 🦙 Ollama - Haystack integration | 2024-01-09 | [post](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-rag-activity-7150444842001629186-xtQi) |
 | 🦙 Ollama - beyond the surface (unpolished notes) 📝 | 2024-01-05 | [post](https://www.linkedin.com/posts/stefano-fiorucci_llm-docker-largelanguagemodels-activity-7148948677154299904-dh0L) |
 | 🇮🇹🇬🇧 Multilingual RAG from a 🎧 podcast | 2024-01-03 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-rag-activity-7148232270707937280-Pks_) |
 | 🧪🦍 Information Extraction with open LLMs and Function Calling | 2023-12-21 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-opensource-largelanguagemodels-activity-7143511665278447618-OKLW) |
