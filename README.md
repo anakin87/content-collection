@@ -24,7 +24,7 @@ Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 | ⚡ vLLM: how this fast LLM serving engine works (PagedAttention) | 2023-09-26 | [post](https://www.linkedin.com/posts/stefano-fiorucci_llm-haystack-activity-7112336741725790208-cfZU) |
 | Strategic Passage Ranking for RAG: how to overcome the Lost in the Middle problem | 2023-08-14 | [post](https://www.linkedin.com/posts/stefano-fiorucci_largelanguagemodels-llm-rag-activity-7096746266197467136-X9ES) |
 | 🚀 Load LLMs in Colab 💻 using quantization | 2023-07-31 | [post](https://www.linkedin.com/posts/stefano-fiorucci_largelanguagemodels-transformers-llm-activity-7091672332808667136-3tzC) |
-| Chat with your documents using Haystack | 2023-07-31" | [post](https://www.linkedin.com/posts/stefano-fiorucci_customizing-agent-to-chat-with-your-documents-activity-7089135617678204928-fA-Z") |
+| Chat with your documents using Haystack | 2023-07-31" | [post](https://www.linkedin.com/posts/stefano-fiorucci_customizing-agent-to-chat-with-your-documents-activity-7089135617678204928-fA-Z) |
 | Llama2 🦙 on Haystack | 2023-07-20 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-nlp-activity-7087687068683792384-mM78) |
 | Hatch: the Python 🐍 project manager | 2023-07-12 | [post](https://www.linkedin.com/posts/stefano-fiorucci_python-build-package-activity-7084787718517334016-p47v) |
 | What would mother 👩 say? (by Tuana Çelik): an agent for generating tweets | 2023-07-07 | [post](https://www.linkedin.com/posts/stefano-fiorucci_ai-pokerface-musicinnovation-activity-7082968480899117056--EWx) |
