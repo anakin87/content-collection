@@ -6,6 +6,7 @@ Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 
 | Title  | ≈ Date | type |
 |---|---|---|
+| 🧩🧩 Merging Language Models: what I learned | 2024-02-05 | [post](https://www.linkedin.com/posts/stefano-fiorucci_llm-nlp-neuralnetworks-activity-7160185533627785217-RCRF) |
 | Can Language Models self-improve? 🏋️📈 - Self-Rewarding Language Models paper | 2024-01-22 | [post](https://www.linkedin.com/posts/stefano-fiorucci_largelanguagemodels-training-nlp-activity-7155109838581030912-WXsW) |
 | 🦙 Ollama - Haystack integration | 2024-01-09 | [post](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-rag-activity-7150444842001629186-xtQi) |
 | 🦙 Ollama - beyond the surface (unpolished notes) 📝 | 2024-01-05 | [post](https://www.linkedin.com/posts/stefano-fiorucci_llm-docker-largelanguagemodels-activity-7148948677154299904-dh0L) |
