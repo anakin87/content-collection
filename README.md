@@ -6,6 +6,7 @@ Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 
 | Title  | ≈ Date | type |
 |---|---|---|
+| Zero-day experiments with Google Gemma 💎 | 2024-02-21 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-largelanguagemodels-activity-7166102190183309312-uzI2) |
 | 🗺️🧭 What's the best LLM inference solution for me? | 2024-02-20 | [post](https://www.linkedin.com/posts/stefano-fiorucci_llm-largelanguagemodels-haystack-activity-7165624371682689025-wxPv) |
 | 🧩🧩 Merging Language Models: what I learned | 2024-02-05 | [post](https://www.linkedin.com/posts/stefano-fiorucci_llm-nlp-neuralnetworks-activity-7160185533627785217-RCRF) |
 | Can Language Models self-improve? 🏋️📈 - Self-Rewarding Language Models paper | 2024-01-22 | [post](https://www.linkedin.com/posts/stefano-fiorucci_largelanguagemodels-training-nlp-activity-7155109838581030912-WXsW) |
