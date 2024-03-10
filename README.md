@@ -6,6 +6,9 @@ Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 
 | Title  | ≈ Date | type |
 |---|---|---|
+| 🧭 Choosing an embedding inference solution | 2024-03-10 | [post](https://www.linkedin.com/posts/stefano-fiorucci_embedders-activity-7172645153139027968-FTvW) |
+| LLMs 4 Devs: from 0 to your 1st LLM application @ Open Source Day | 2024-03-08 | [talk + repository](https://github.com/anakin87/llms4devs) |
+| Haystack - an open framework for LLM applications: 🎙️ interview @ Intervista Pythonista with Massimiliano Pippi, in Italian 🇮🇹 | 2024-03-01 | [podcast](https://www.youtube.com/watch?v=HwhR1wb-0t4) |
 | Zero-day experiments with Google Gemma 💎 | 2024-02-21 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-largelanguagemodels-activity-7166102190183309312-uzI2) |
 | 🗺️🧭 What's the best LLM inference solution for me? | 2024-02-20 | [post](https://www.linkedin.com/posts/stefano-fiorucci_llm-largelanguagemodels-haystack-activity-7165624371682689025-wxPv) |
 | 🧩🧩 Merging Language Models: what I learned | 2024-02-05 | [post](https://www.linkedin.com/posts/stefano-fiorucci_llm-nlp-neuralnetworks-activity-7160185533627785217-RCRF) |
