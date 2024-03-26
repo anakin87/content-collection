@@ -6,6 +6,7 @@ Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 
 | Title  | ≈ Date | type |
 |---|---|---|
+| 💎 gemma-2b-orpo: a Small Language Model trained with ORPO | 2024-03-26 | [post + model + notebooks](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-largelanguagemodels-activity-7178324369528471552-DCr3) |
 | 🧪📑 From raw text to structured data with LLMs and function calling | 2024-03-20 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_information-extraction-llms-activity-7176243894475505664-jpzI) |
 | 🧭 Choosing an embedding inference solution | 2024-03-10 | [post](https://www.linkedin.com/posts/stefano-fiorucci_embedders-activity-7172645153139027968-FTvW) |
 | LLMs 4 Devs: from 0 to your 1st LLM application @ Open Source Day | 2024-03-08 | [talk + repository](https://github.com/anakin87/llms4devs) |
