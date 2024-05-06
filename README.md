@@ -6,6 +6,8 @@ Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 
 | Title  | ≈ Date | type |
 |---|---|---|
+| 🔎 Sparse Embedding Retrieval in Haystack | 2024-04-29 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-informationretrieval-nlp-activity-7190716915072299009-POI3) |
+| Playing with 🦙 Llama 3 (RAG about Oscar night 🎬) | 2024-04-19 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-llama-activity-7187101027047813120-d7Tx) |
 | 🦙📱 Running Small Language Models on a cheap smartphone | 2024-04-09 | [post](https://www.linkedin.com/posts/stefano-fiorucci_llm-genai-edgecomputing-activity-7183365537618411520-PU2s) |
 | 💎 gemma-2b-orpo-GGUF. Thoughts on quantization. | 2024-04-08 | [post + model](https://www.linkedin.com/posts/stefano-fiorucci_largelanguagemodels-nlp-llm-activity-7183003138419744768-8BFI) |
 | 💎 gemma-2b-orpo: a Small Language Model trained with ORPO | 2024-03-26 | [post + model + notebooks](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-largelanguagemodels-activity-7178324369528471552-DCr3) |
