@@ -6,6 +6,8 @@ Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 
 | Title  | ≈ Date | type |
 |---|---|---|
+| 🧑‍🏫 AutoQuizzer: create a quiz from a URL and play/let the LLM play | 2024-05-16 | [post + demo](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-largelanguagemodels-activity-7196811317951770624-vhPa) |
+| 🐍 PyCon Italy 2024 - LLM/NLP compilation | 2024-05-10 | [post](https://www.linkedin.com/posts/stefano-fiorucci_haystack-pycon-nlp-activity-7194592237719109634-efoO) |
 | 🔎 Sparse Embedding Retrieval in Haystack | 2024-04-29 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-informationretrieval-nlp-activity-7190716915072299009-POI3) |
 | Playing with 🦙 Llama 3 (RAG about Oscar night 🎬) | 2024-04-19 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-llama-activity-7187101027047813120-d7Tx) |
 | 🦙📱 Running Small Language Models on a cheap smartphone | 2024-04-09 | [post](https://www.linkedin.com/posts/stefano-fiorucci_llm-genai-edgecomputing-activity-7183365537618411520-PU2s) |
