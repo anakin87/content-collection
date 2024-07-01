@@ -6,6 +6,7 @@ Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 
 | Title  | ≈ Date | type |
 |---|---|---|
+| 🎤 yo-Llama 🦙: altering the behavior of a LLM by amplifying a feature direction in the activation space | 2024-07-01 | [post + model + notebook](https://www.linkedin.com/posts/stefano-fiorucci_llm-interpretability-genai-activity-7213443953486925824-bxfg) |
 | 🌌 Creating adventures with local LLMs: llamafile + Character Codex | 2024-06-24 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-largelanguagemodels-activity-7211717437388460033-m6bS) |
 | RAG Evaluation with 🔥 Prometheus 2 | 2024-06-17 | [blog post + notebook](https://haystack.deepset.ai/blog/rag-evaluation-with-prometheus-2) |
 | ⚙️ Prompt Optimization with Haystack + DSPy | 2024-06-05 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-promptengineering-llm-activity-7204022134124220416-btCr) |
