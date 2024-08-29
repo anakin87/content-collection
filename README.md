@@ -6,6 +6,8 @@ Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 
 | Title  | ≈ Date | type |
 |---|---|---|
+| 💬🇮🇹 Phi 3.5 mini ITA: my Italian Small Language Model | 2024-08-29 | [post + model + demo](https://www.linkedin.com/posts/stefano-fiorucci_llm-finetuning-transformers-activity-7234864629670150145-pIHx) |
+| 📝 Fine-tuning LLMs: what I've learned | 2024-08-26 | [post](https://www.linkedin.com/posts/stefano-fiorucci_llm-finetuning-transformers-activity-7233821572027846658-LowT) |
 | 🗂️⛏️ Structured data extraction with Small Language Models | 2024-08-02 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-opensource-llm-activity-7225079608625266688-QVr8) |
 | 🌉 Introduction to mechanistic interpretability of LLMs | 2024-08-01 | [post](https://www.linkedin.com/posts/stefano-fiorucci_interpretability-gemma-largelanguagemodels-activity-7224679002207100929-asSk) |
 | 🔎 BM42: a new ranking algorithm for hybrid RAG | 2024-07-05 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-rag-informationretrieval-activity-7214561252361007105-4nSi) |
