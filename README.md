@@ -6,6 +6,7 @@ Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 
 | Title  | ≈ Date | type |
 |---|---|---|
+| 🕵🏻 Agentic RAG with 🦙 Llama 3.2 3B | 2024-09-26 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_rag-haystack-llama-activity-7244981783006433280-hJqX) |
 | 🎯 Selective fine-tuning of Language Models with Spectrum + TRL | 2024-09-03 | [tutorial](https://huggingface.co/blog/anakin87/spectrum) |
 | 💬🇮🇹 Phi 3.5 mini ITA: my Italian Small Language Model | 2024-08-29 | [post + model + demo](https://www.linkedin.com/posts/stefano-fiorucci_llm-finetuning-transformers-activity-7234864629670150145-pIHx) |
 | 📝 Fine-tuning LLMs: what I've learned | 2024-08-26 | [post](https://www.linkedin.com/posts/stefano-fiorucci_llm-finetuning-transformers-activity-7233821572027846658-LowT) |
