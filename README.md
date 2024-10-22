@@ -6,6 +6,7 @@ Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 
 | Title  | ≈ Date | type |
 |---|---|---|
+| 🇮🇹🇯🇵🇧🇷 Generating multilingual instruction datasets with Magpie 🐦‍⬛ | 2024-10-21 | [article + notebook](https://huggingface.co/blog/anakin87/multilingual-magpie) |
 | Create a 📰 Newsletter Agent with Haystack Tools 🛠️ | 2024-10-17 | [notebook + video](https://haystack.deepset.ai/cookbook/newsletter-agent) |
 | 🧰 From my toolbox: 💬 Chat Template Viewer | 2024-10-07 | [post](https://www.linkedin.com/posts/stefano-fiorucci_largelanguagemodels-llm-transformers-activity-7249000383358877697-cFvW) |
 | 🕵🏻 Agentic RAG with 🦙 Llama 3.2 3B | 2024-09-26 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_rag-haystack-llama-activity-7244981783006433280-hJqX) |
