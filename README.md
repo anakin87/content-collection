@@ -6,6 +6,7 @@ Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 
 | Title  | ≈ Date | type |
 |---|---|---|
+| 🔮 Decoding strategies and the future of Language Models | 2024-11-12 | [post](https://www.linkedin.com/posts/stefano-fiorucci_llm-genai-activity-7262058281752219648-kGhG) |
 | 👩‍🏫 Banks (Python library): a Swiss Army Knife for prompting | 2024-10-31 | [post](https://www.linkedin.com/posts/stefano-fiorucci_llm-prompting-opensource-activity-7257674053690265601-30qh) |
 | 🇮🇹🇯🇵🇧🇷 Generating multilingual instruction datasets with Magpie 🐦‍⬛ | 2024-10-21 | [article + notebook](https://huggingface.co/blog/anakin87/multilingual-magpie) |
 | Create a 📰 Newsletter Agent with Haystack Tools 🛠️ | 2024-10-17 | [notebook + video](https://haystack.deepset.ai/cookbook/newsletter-agent) |
