@@ -6,6 +6,7 @@ Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 
 | Title  | ≈ Date | type |
 |---|---|---|
+| 🎄 Christmas Challenge: 🤖 build an Agent to manage Santa's Inventory 🎅 | 2024-12-18 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_adventofhaystack-haystack-agent-activity-7275154243139895297-HwJn) |
 | 🐝🐝🐝 A Swarm of Agents with Llama 3.2, GPT-4o mini and Claude 3.5 Sonnet | 2024-11-26 | [post + article + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-haystack-llm-activity-7267175398898028544-yuUt) |
 | Tülu 3: a massive work in open LM post-training | 2024-11-21 | [post](https://www.linkedin.com/posts/stefano-fiorucci_ai2-just-published-a-massive-work-on-%F0%9D%90%8F%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-activity-7265449762496126978-4roj) |
 | 🔮 Decoding strategies and the future of Language Models | 2024-11-12 | [post](https://www.linkedin.com/posts/stefano-fiorucci_llm-genai-activity-7262058281752219648-kGhG) |
