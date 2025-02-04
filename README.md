@@ -6,10 +6,12 @@ Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 
 | Title  | ≈ Date | type |
 |---|---|---|
-| New Italian preference dataset  🇮🇹👍👎 | 2024-01-22 | [post + dataset]( https://www.linkedin.com/posts/stefano-fiorucci_gemma-finetuning-llm-activity-7287831746325192704-jp0T) |
-| 🈯🦙 Translate instruction datasets using a LLM + LLM as a Judge 🧑‍⚖️ (cheap recipe) | 2024-01-20 | [post + notebook + dataset](https://www.linkedin.com/posts/stefano-fiorucci_gemma-llm-activity-7287113366572068865-B_-z) |
-| 🤏 New Italian Small Language Models: Neogenesis collection | 2024-01-17 | [post + models]( https://www.linkedin.com/posts/stefano-fiorucci_gemma-gemmaverse-llm-activity-7286017834734788608-9a_Q) |
-| 💎🌍🇮🇹 Gemma Neogenesis - Improving Gemma 2 for a Specific Language on a Budget: Post-Training Recipe | 2024-01-15 | [notebook   ](https://www.kaggle.com/code/anakin87/post-training-gemma-for-italian-and-beyond) |
+| 😩 Struggling with QLoRA? Give Spectrum a try! | 2025-02-04 | [post + tutorial](https://www.linkedin.com/posts/stefano-fiorucci_llm-finetuning-transformers-activity-7292546778480959488-8nxA) |
+| 🧬 Use Language Model responses to improve it | 2025-01-28 | [post + dataset](https://www.linkedin.com/posts/stefano-fiorucci_gemma-finetuning-largelanguagemodels-activity-7290004855606202371-uH2d) |
+| New Italian preference dataset  🇮🇹👍👎 | 2025-01-22 | [post + dataset](https://www.linkedin.com/posts/stefano-fiorucci_gemma-finetuning-llm-activity-7287831746325192704-jp0T) |
+| 🈯🦙 Translate instruction datasets using a LLM + LLM as a Judge 🧑‍⚖️ (cheap recipe) | 2025-01-20 | [post + notebook + dataset](https://www.linkedin.com/posts/stefano-fiorucci_gemma-llm-activity-7287113366572068865-B_-z) |
+| 🤏 New Italian Small Language Models: Neogenesis collection | 2025-01-17 | [post + models]( https://www.linkedin.com/posts/stefano-fiorucci_gemma-gemmaverse-llm-activity-7286017834734788608-9a_Q) |
+| 💎🌍🇮🇹 Gemma Neogenesis - Improving Gemma 2 for a Specific Language on a Budget: Post-Training Recipe | 2025-01-15 | [notebook   ](https://www.kaggle.com/code/anakin87/post-training-gemma-for-italian-and-beyond) |
 | 🎄 Christmas Challenge: 🤖 build an Agent to manage Santa's Inventory 🎅 | 2024-12-18 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_adventofhaystack-haystack-agent-activity-7275154243139895297-HwJn) |
 | 🐝🐝🐝 A Swarm of Agents with Llama 3.2, GPT-4o mini and Claude 3.5 Sonnet | 2024-11-26 | [post + article + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-haystack-llm-activity-7267175398898028544-yuUt) |
 | Tülu 3: a massive work in open LM post-training | 2024-11-21 | [post](https://www.linkedin.com/posts/stefano-fiorucci_ai2-just-published-a-massive-work-on-%F0%9D%90%8F%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-activity-7265449762496126978-4roj) |
