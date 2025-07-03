@@ -6,6 +6,15 @@ Mostly about NLP, LLMs, Information Retrieval, and Vector Search.
 
 | Title  | ≈ Date | type |
 |---|---|---|
+| 🛡️ AI Guardrails with Open Language Models - Tutorial | 2025-07-03 | [post + notebook](https://www.linkedin.com/posts/stefano-fiorucci_haystack-safety-genai-activity-7346534530503061506-07Tk) |
+| 🧰 Free up space on the Hugging Face Hub with super_squash_history 🧹 | 2025-06-30 | [post](https://www.linkedin.com/posts/stefano-fiorucci_machinelearning-transformers-largelanguagemodels-activity-7345453621242658816-HxF_) |
+| 🐍 My adventure at PyCon Italy 2025 | 2025-06-24 | [post + talk + repository](https://www.linkedin.com/posts/stefano-fiorucci_3-weeks-ago-i-had-a-great-time-at-pycon-italia-activity-7343210124963950592-IySN) |
+| Supervised Fine-Tuning vs Preference Alignment: Who does what in Post-Training? | 2025-06-05 | [post](https://www.linkedin.com/posts/stefano-fiorucci_supervised-fine-tuning-vs-preference-alignment-activity-7336387729569505283-xfAQ) |
+| 📝 GRPO: what I've learned | 2025-05-15 | [post](https://www.linkedin.com/posts/stefano-fiorucci_grpo-llm-finetuning-activity-7328771028245958658-zj6-) |
+| 💎 I'm one of the winners of the Gemma fine-tuning competition! 🏆 | 2025-05-06 | [post](https://www.linkedin.com/posts/stefano-fiorucci_gemma-gemmaverse-llm-activity-7325522722459947008-xH-M) |
+| 👑 🗓️ I trained a Language Model to schedule events with GRPO | 2025-04-29 | [article + repository](https://huggingface.co/blog/anakin87/qwen-scheduler-grpo) |
+| Fine-tuning Gemma 2 for Italian and beyond - Tech Talk @ Pi School | 2025-04-09 | [talk](https://www.youtube.com/watch?v=RFPp4ycQ0fA) |
+| 🧠🇮🇹 Minerva, the Italian LLM: 🎙️ interview to Simone Conia @ Pointer Podcast, in Italian 🇮🇹 | 2023-02-15 | [podcast](https://pointerpodcast.it/p/pointer243-minerva-lllm-italiano-con-simone-conia/) |
 | 😩 Struggling with QLoRA? Give Spectrum a try! | 2025-02-04 | [post + tutorial](https://www.linkedin.com/posts/stefano-fiorucci_llm-finetuning-transformers-activity-7292546778480959488-8nxA) |
 | 🧬 Use Language Model responses to improve it | 2025-01-28 | [post + dataset](https://www.linkedin.com/posts/stefano-fiorucci_gemma-finetuning-largelanguagemodels-activity-7290004855606202371-uH2d) |
 | New Italian preference dataset  🇮🇹👍👎 | 2025-01-22 | [post + dataset](https://www.linkedin.com/posts/stefano-fiorucci_gemma-finetuning-llm-activity-7287831746325192704-jp0T) |
